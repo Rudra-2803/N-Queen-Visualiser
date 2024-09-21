@@ -13,6 +13,6 @@ Features
 
 3. Interactive step-by-step execution of algorithms.
 
-4.Clean and user-friendly interface.
+4. Clean and user-friendly interface.
 
 5. Adjustable speed for visualization.
