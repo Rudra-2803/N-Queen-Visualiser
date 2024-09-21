@@ -7,8 +7,12 @@ A Python-based visualizer for solving the classic N-Queens problem, where N quee
 
 Features
 
-Visualizes the placement of queens on the chessboard.
-Supports different board sizes (N).
-Interactive step-by-step execution of algorithms.
-Clean and user-friendly interface.
-Adjustable speed for visualization.
+1. Visualizes the placement of queens on the chessboard.
+
+2. Supports different board sizes (N).
+
+3. Interactive step-by-step execution of algorithms.
+
+4.Clean and user-friendly interface.
+
+5. Adjustable speed for visualization.
